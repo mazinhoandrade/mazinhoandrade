@@ -11,5 +11,7 @@
 - NodeJs | MongoDB
 
 🌱 I'm currently learning:
+- nestJs
+- ioT
 - Python
 - Docker
