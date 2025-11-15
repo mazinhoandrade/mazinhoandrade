@@ -8,7 +8,7 @@
 - Wordpress | Bootstrap | Html | Css
 
  📘 Knowledge:
-- NodeJs | MongoDB
+- NodeJs | MongoDB | PostgreSQL
 
 🌱 I'm currently learning:
 - nestJs
